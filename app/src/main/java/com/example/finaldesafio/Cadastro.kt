@@ -10,8 +10,6 @@ class Cadastro : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.cadastroanunciante)
 
-        
-
 
     }
 }
